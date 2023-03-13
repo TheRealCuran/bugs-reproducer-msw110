@@ -1,0 +1,12 @@
+.*
+*~
+coverage/
+dist/
+node_modules/
+public/
+
+# excepted dot files
+!.gitignore
+!.editorconfig
+!.eslintrc.js
+!.prettierrc.js
